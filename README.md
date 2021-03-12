@@ -1,4 +1,4 @@
-### Hi I'am Thanh Na NGUYEN a Data Scientist and Mathematicien 👋
+### Hi I'am Thanh Nam NGUYEN a Data Scientist and Mathematicien 👋
 ### Below some of my personal notes on Data Science
 
 ## 3 Projects about image classification
