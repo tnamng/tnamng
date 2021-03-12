@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'am Thanh Na NGUYEN a Data Scientist and Mathematicien 👋
+### Below some of my personal projects on Data Scientiest
 <!--
 **tnamng/tnamng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
