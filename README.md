@@ -1,5 +1,5 @@
 ### Hi I'am Thanh Na NGUYEN a Data Scientist and Mathematicien 👋
-### Below some of my personal projects on Data Scientiest
+### Below some of my personal projects on Data Science
 
 
 ## Project 1: Binary Classification
