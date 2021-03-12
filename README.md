@@ -1,21 +1,18 @@
 ### Hi I'am Thanh Na NGUYEN a Data Scientist and Mathematicien 👋
-### Below some of my personal projects on Data Science
+### Below some of my personal notes on Data Science
 
-
-## Project 1: Binary Classification
-    - Humans and Horses classification problem
+## 3 Projects about image classification
+    - Humans and Horses; Dogs and cats; Rocks, scissors and  paper
     - Framework: Keras/Tensorflow
-    - Technical keywords: Convnet, DataAugmentation, Load image from folders
+    - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
+  
+## 1 Project about single object Detection, 1 Project about image classification and single object Detection
 
-##  Project 2: Binary Classification
-    - Dogs and cats classification
-    - Framework: Keras/Tensorflow
-    - Keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
+## 1 Project about Text analyses
+    - Scikit Learn, NLTK
+    - Sequence model (TensorFlow Framework)
 
-##  Project 3: Multicalss classification
-    - Rocks, scissors and  paper (symbol hand) classification
-    - Framework: Keras/Tensorflow
-    - Keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning   
+## A personal summary of codes for DataScience, Machine Learning and DeepLearning 
 
 
 <!--
