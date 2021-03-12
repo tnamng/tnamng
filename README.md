@@ -1,7 +1,7 @@
 ### Hi I'am Thanh Nam NGUYEN a Data Scientist and Mathematicien 👋
 ### Below some of my personal notes on Data Science
 
-## 3 Projects about image classification
+3 Projects about image classification
     - Humans and Horses; Dogs and cats; Rocks, scissors and  paper
     - Framework: Keras/Tensorflow
     - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
