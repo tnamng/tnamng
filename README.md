@@ -12,7 +12,10 @@
     - Scikit Learn, NLTK
     - Sequence model (TensorFlow Framework)
 
+## Some mini-projects concernant manipulation Data (EDA)
+
 ## A personal summary of codes for DataScience, Machine Learning and DeepLearning 
+
 
 
 <!--
