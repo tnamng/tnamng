@@ -1,5 +1,5 @@
 ### Hi I'am Thanh Nam NGUYEN a Data Scientist and Mathematicien 👋
-### Below some of my personal notes on Data Science
+### Below some of my personal notes (codes) on Data Science
 
 3 Projects about image classification
 
@@ -7,15 +7,20 @@
     - Framework: Keras/Tensorflow
     - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
   
-## 1 Project about single object Detection, 1 Project about image classification and single object Detection
+1 Project about single object Detection, 
 
-## 1 Project about Text analyses
+1 Project about image classification and single object Detection
+
+1 Project about Text analyses
+
     - Scikit Learn, NLTK
     - Sequence model (TensorFlow Framework)
 
-## Some mini-projects concernant manipulation Data (EDA)
 
-## A personal summary of codes for DataScience, Machine Learning and DeepLearning 
+Some mini-projects concernant manipulation Data (EDA)
+
+
+A personal summary of codes for DataScience, Machine Learning and DeepLearning 
 
 
 
