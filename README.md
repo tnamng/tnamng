@@ -3,17 +3,19 @@
 
 Below some of my personal notes (codes) on Data Science
 
-3 Projects about image classification
+- 6 projects concernant Tabular Data [Link](https://github.com/tnamng/DataScience-Project-S)
+
+- 3 Projects about image classification
 
     - Humans and Horses; Dogs and cats; Rocks, scissors and  paper
     - Framework: Keras/Tensorflow
     - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
   
-1 Project about single object Detection, 
+- 1 Project about single object Detection, 
 
-1 Project about image classification and single object Detection
+- 1 Project about image classification and single object Detection
 
-1 Project about Text analyses
+- 1 Project about Text analyses
 
     - Scikit Learn, NLTK
     - Sequence model (TensorFlow Framework)
