@@ -5,12 +5,12 @@ My Github respoitory contains my notes, codes, projects in my DS, ML and DeepLea
 
 ## Projects
 
-- 6 projects concernant Tabular Data. [(Link)](https://github.com/tnamng/DataScience-Project-S). Some keywords:
+- 6 projects concernant Tabular Datasets [(Link)](https://github.com/tnamng/DataScience-Project-S). Some keywords:
     + Manipulation, Clearning, Visualisation, Preprocessing 
     + Frameworks: Scikit Learn, Seaborn, Pandas, Numpy
     + Algorithms Logistic Regression, KNN, Linear and Kernel SVM, RandomForest, AdBoost, GradienBoosting, Xgboost
 
-- 3 Projects about image classification. [(Link)](https://github.com/tnamng/Images-Classification-3_Projects)
+- 3 Projects about image classification [(Link)](https://github.com/tnamng/Images-Classification-3_Projects)
     - Humans and Horses; Dogs and cats; Rocks, scissors and  paper
     - Framework: Keras/Tensorflow
     - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
