@@ -29,7 +29,7 @@ My Github contains my notes, codes, projects in my DS, ML and DeepLearning Journ
 - Coursera: Deeplearning Specialization 
 - Tensorflow Deployement and Pipiline (in progress) 
 - TensorFlow: Advanced Techniques (in progress)
-- Backend Framework (Flask, Javascript; NodeJs) (starting)
+- Backend Framework (Flask, Javascript, NodeJs) (starting)
 
 
 
