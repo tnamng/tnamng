@@ -3,7 +3,7 @@
 My Github contains my notes, codes, projects in my DS, ML and DeepLearning Journey. For more information about my mathematical research, please go to [this page](https://sites.google.com/site/namthanhnguyenmath/research)
 
 
-## Projects
+## 12 Projects
 
 - 6 projects concernant Tabular Datasets [(Link)](https://github.com/tnamng/DataScience-Project-S). Some keywords:
     + Manipulation, Clearning, Visualisation, Preprocessing 
