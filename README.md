@@ -1,12 +1,14 @@
 ### Hi I'am Thanh Nam NGUYEN - Data Scientist and Mathematicien 👋
 
 
-Below some of my personal notes (codes) on Data Science
+## Projects
 
-- 6 projects concernant Tabular Data [(Link)](https://github.com/tnamng/DataScience-Project-S)
+- 6 projects concernant Tabular Data [(Link)](https://github.com/tnamng/DataScience-Project-S). Some keywords:
+    + Manipulation, Clearning, Visualisation, Preprocessing 
+    + Frameworks: Scikit Learn, Seaborn, Pandas, Numpy
+    + Algorithms Logistic Regression, KNN, Linear and Kernel SVM, RandomForest, AdBoost, GradienBoosting, Xgboost
 
 - 3 Projects about image classification
-
     - Humans and Horses; Dogs and cats; Rocks, scissors and  paper
     - Framework: Keras/Tensorflow
     - Technical keywords: Convnet, DataAugmentation, Load image from folders, Transfer learning
@@ -16,15 +18,11 @@ Below some of my personal notes (codes) on Data Science
 - 1 Project about image classification and single object Detection
 
 - 1 Project about Text analyses
-
     - Scikit Learn, NLTK
     - Sequence model (TensorFlow Framework)
 
+## A personal summary of codes for DataScience, Machine Learning and DeepLearning [(Link)](https://github.com/tnamng/Summary-DataScience-ML-DL)
 
-Some mini-projects concernant manipulation Data (EDA)
-
-
-A personal summary of codes for DataScience, Machine Learning and DeepLearning 
 
 
 
