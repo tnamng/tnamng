@@ -26,7 +26,9 @@ My Github contains my notes, codes, projects in my DS, ML and DeepLearning Journ
 ## A personal summary of codes for DS, ML and DL 
 
 - a personal summary [(Link)](https://github.com/tnamng/Summary-DataScience-ML-DL)
-- Coursera: Deeplearning Specialization 
+- Datascience Career Track (DataCamp)
+- Deep Learning Specialization (DeepLearning.AI and Coursera)
+- TensorFlow in Practics (DeepLearning.AI and Coursera)
 - Tensorflow Deployement and Pipiline (in progress) 
 - TensorFlow: Advanced Techniques (in progress)
 <!--- Backend Framework (Flask, Javascript, NodeJs) (starting)-->
