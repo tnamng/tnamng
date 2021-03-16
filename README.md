@@ -25,11 +25,11 @@ My Github respoitory contains my notes, codes, projects in my DS, ML and DeepLea
 
 ## A personal summary of codes for DS, ML, DL 
 
-    - a personal summary [(Link)](https://github.com/tnamng/Summary-DataScience-ML-DL)
-    - Coursera: Deeplearning Specialization 
-    - Tensorflow Deployement and Pipiline (in progress) 
-    - TensorFlow: Advanced Techniques (in progress)
-    - Backend Framework (Flask, Javascript; NodeJs) (starting)
+- a personal summary [(Link)](https://github.com/tnamng/Summary-DataScience-ML-DL)
+- Coursera: Deeplearning Specialization 
+- Tensorflow Deployement and Pipiline (in progress) 
+- TensorFlow: Advanced Techniques (in progress)
+- Backend Framework (Flask, Javascript; NodeJs) (starting)
 
 
 
