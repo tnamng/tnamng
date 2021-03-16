@@ -1,6 +1,6 @@
 ### Hi I'am Thanh Nam NGUYEN - Data Scientist and Mathematicien
 
-My Github respoitory contains my notes, codes, projects in my DS, ML and DeepLearning Journey. For more information about my mathematical research, please go to [this page](https://sites.google.com/site/namthanhnguyenmath/research)
+My Github contains my notes, codes, projects in my DS, ML and DeepLearning Journey. For more information about my mathematical research, please go to [this page](https://sites.google.com/site/namthanhnguyenmath/research)
 
 
 ## Projects
