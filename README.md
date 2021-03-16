@@ -1,4 +1,4 @@
-### Hi I'am Thanh Nam NGUYEN - Data Scientist and Mathematicien. 
+### Hi I'am Thanh Nam NGUYEN - Data Scientist and Mathematicien
 
 My Github respoitory contains my notes, codes, projects in my DS, ML and DeepLearning Journey.
 
@@ -23,7 +23,7 @@ My Github respoitory contains my notes, codes, projects in my DS, ML and DeepLea
     - Scikit Learn, NLTK
     - Sequence model (TensorFlow Framework)
 
-## A personal summary of codes for DS, ML, DL 
+## A personal summary of codes for DS, ML and DL 
 
 - a personal summary [(Link)](https://github.com/tnamng/Summary-DataScience-ML-DL)
 - Coursera: Deeplearning Specialization 
