@@ -3,7 +3,7 @@
 
 Below some of my personal notes (codes) on Data Science
 
-- 6 projects concernant Tabular Data [Link](https://github.com/tnamng/DataScience-Project-S)
+- 6 projects concernant Tabular Data [(Link)](https://github.com/tnamng/DataScience-Project-S)
 
 - 3 Projects about image classification
 
