@@ -29,9 +29,9 @@ My Github contains my notes, codes and projects in my journey of DS, ML and Deep
 
 - Datascience Career Track (DataCamp)
 - Deep Learning Specialization (DeepLearning.AI and Coursera)
-- TensorFlow in Practics (DeepLearning.AI and Coursera)
-- Tensorflow Deployement and Pipiline (in progress) 
-- TensorFlow: Advanced Techniques (in progress)
+- TensorFlow in Practics Specialization (DeepLearning.AI and Coursera)
+- Tensorflow: Deployement and Pipiline Specialization (in progress) 
+- TensorFlow: Advanced Techniques Specialization (in progress)
 <!--- Backend Framework (Flask, Javascript, NodeJs) (starting)-->
 
 
