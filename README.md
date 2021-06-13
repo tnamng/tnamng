@@ -27,9 +27,9 @@ My Github contains my notes, codes and projects in my journey of DS, ML and Deep
 
 ## COURS EN LIGNE
 
-- Datascience Career Track (DataCamp)
-- Deep Learning Specialization (DeepLearning.AI and Coursera) [(Link)](https://github.com/tnamng/Deep-Learning-Specialization-DeepLearningAI)
-- TensorFlow in Practics Specialization (DeepLearning.AI and Coursera) [(Link)](https://github.com/tnamng/TensorFlow-in-Practice-Developer-DeepLearningAI)
+- Datascience Career Track (DataCamp) [(Certificat)] (https://www.datacamp.com/statement-of-accomplishment/track/49fa739a0a1cbc66ca64e31036062edbd5456fb8)
+- Deep Learning Specialization (DeepLearning.AI and Coursera) [(Certificat)](https://github.com/tnamng/Deep-Learning-Specialization-DeepLearningAI)
+- TensorFlow in Practics Specialization (DeepLearning.AI and Coursera) [(Certificat)](https://github.com/tnamng/TensorFlow-in-Practice-Developer-DeepLearningAI)
 - Tensorflow: Deployement and Pipiline Specialization (in progress) 
 - TensorFlow: Advanced Techniques Specialization (in progress)
 <!--- Backend Framework (Flask, Javascript, NodeJs) (starting)-->
